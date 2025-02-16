@@ -1,6 +1,6 @@
 # Elias John's Profile Website
 
-This website is a simple personal profile page for Elias John. It includes basic links to his blog, book recommendations, email, and social media profiles (Telegram, Instagram, and TikTok).
+This website is a simple personal profile page for Elias John. It includes basic links to my blog, book recommendations, email, and social media profiles (Telegram, Instagram, and TikTok).
 
 ## Technologies
 
@@ -35,14 +35,14 @@ The design uses a **dark theme** with coral-colored accents and rounded images.
 ## Customization
 
 - Change the profile picture and name in the respective HTML elements:
-    ```html
+    html
     <img src="Profilbild.jpg" alt="Profile Picture" class="Profil-Bild">
     <div class="Profil-Name"><p>E l i a s J o h n </p></div>
-    ```
+    
 - Edit the links to your own pages and social media:
-    ```html
+    html
     <a href="https://your-website.com" target="_blank" class="links">Your Link</a>
-    ```
+    
 
 ## License
 
