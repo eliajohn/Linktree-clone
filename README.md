@@ -13,10 +13,10 @@ This website is a simple personal profile page for Elias John. It includes basic
 The webpage consists of a **profile picture**, a **name**, and various **links** leading to different platforms:
 
 - **Blog**: A link to Elias John's blog
-- **Book Recommendations**: A link to his book recommendations page
+- **Book Recommendations**: A link to my book recommendations page
 - **Mail**: A link to send an email to Elias John
-- **Telegram**: A link to his Telegram channel
-- **Social Media**: Direct links to his Instagram and TikTok profiles
+- **Telegram**: A link to my Telegram channel
+- **Social Media**: Direct links to my Instagram and TikTok profiles
 
 The design uses a **dark theme** with coral-colored accents and rounded images.
 
